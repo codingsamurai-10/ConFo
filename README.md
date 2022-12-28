@@ -1,8 +1,13 @@
 # ConFo
 
+[Frontend repo](https://github.com/codingsamurai-10/confo-frontend) | 
+[Backend repo](https://github.com/codingsamurai-10/confo-backend)
+
 A conversational form application that allows admins to create forms and displays them in a chat interface format for a human-interaction-like form-filling experience.
 
 The project was created as a part of a national level hackathon Flipkart Grid 3.0. Out of the 85,000+ teams that participated, my team "Eleetcoders" made it to the grand finale by ranking in the top 12 teams nationwide.
+
+[Demo as given to Flipkart panel in finale](https://youtu.be/ZuDostnoU1Q?t=11143)
 
 ![image](https://user-images.githubusercontent.com/58487637/209807443-80a63a86-7fcc-462c-b2ad-4ded8e6fcb14.png)
 
